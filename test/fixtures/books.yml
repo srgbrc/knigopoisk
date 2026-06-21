@@ -1,0 +1,13 @@
+one:
+  title: Война и мир
+  text: Описание книги один
+  cover: cover1.jpg
+  creator: one
+  genre: one
+
+two:
+  title: Преступление и наказание
+  text: Описание книги два
+  cover: cover2.jpg
+  creator: two
+  genre: two
